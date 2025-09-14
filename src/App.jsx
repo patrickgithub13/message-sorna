@@ -1,4 +1,4 @@
-import ApologyMessage from "./component/ApologyMessage";
+import ApologyMessage from "./component/ApologyMessage.jsx";
 import "./App.css";
 
 function App() {
