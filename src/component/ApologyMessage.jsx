@@ -458,9 +458,9 @@ const ApologyMessage = () => {
               isVerySmallMobile ? "ultra-small-text" : ""
             }`}
           >
-            Your feelings matter to me more than words can express, and I take
-            full responsibility for my mistakes. I understand that saying sorry
-            is just the beginning, and I'm committed to making things right.
+           I’m sorry about what happened last night. 🌙  
+  I didn’t mean for things to go that way, and I hope  
+  you know how much I care about you. 💜
           </p>
 
           <p
@@ -469,9 +469,9 @@ const ApologyMessage = () => {
               isVerySmallMobile ? "ultra-small-text" : ""
             }`}
           >
-            Please know that you mean the world to me, and I hope you can find
-            it in your heart to forgive me. I promise to do better and learn
-            from this experience.
+            You mean so much to me, and I love you deeply. 💕  
+  No matter what, I’ll always choose you and  
+  I’ll always be here for you. 🌸
           </p>
         </div>
 
@@ -553,3 +553,4 @@ const ApologyMessage = () => {
 };
 
 export default ApologyMessage;
+
