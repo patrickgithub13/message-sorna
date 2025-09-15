@@ -449,7 +449,7 @@ const ApologyMessage = () => {
               isVerySmallMobile ? "ultra-small-text" : ""
             }`}
           >
-            I deeply regret my actions and the hurt I've caused you.
+          I miss you so much 🥺
           </p>
 
           <p
@@ -553,4 +553,5 @@ const ApologyMessage = () => {
 };
 
 export default ApologyMessage;
+
 
